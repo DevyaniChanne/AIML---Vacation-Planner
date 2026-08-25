@@ -1,2 +1,25 @@
 # AIML---Vacation-Planner
 🌴 AI-powered vacation planner using AutoGen and multiple AI agents to create personalized destinations, budgets, and travel itineraries.
+
+# 🌴 Vacation Planner AI
+
+An AI-powered **multi-agent vacation planner** built using **Python, AutoGen, and LLMs**.
+
+### 🤖 Agents
+
+🌍 **Destination Expert** – Suggests destinations and places to visit.
+💰 **Budget Advisor** – Plans expenses according to the user's budget.
+🗓️ **Itinerary Planner** – Creates a personalized day-wise travel plan.
+
+### 🔄 Workflow
+
+```text
+User → Destination Expert → Budget Advisor → Itinerary Planner → Final Vacation Plan
+```
+
+### 🛠️ Tech Stack
+
+**Python | AutoGen | LLMs | AsyncIO | Generative AI**
+
+> 🚀 Built while exploring **Generative AI, LLMs & Multi-Agent Systems**.
+
