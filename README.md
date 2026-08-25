@@ -1,22 +1,21 @@
-# 🌴 Vacation Planner AI
+# AutoGen Travel Planner
 
-An AI-powered **multi-agent vacation planner** built using **Python, AutoGen, and LLMs**.
+A multi-agent system for planning trips using AutoGen v0.4.
 
-### 🤖 Agents
+## Setup
+1. Clone the repo.
+2. Create a virtual environment: `python -m venv venv`.
+3. Activate it: `venv/bin/activate` (Mac/Linux) or `venv\Scripts\activate` (Windows).
+4. Install dependencies: `pip install -r requirements.txt`.
+5. Set `OPENAI_API_KEY` in a `.env` file.
 
-🌍 **Destination Expert** – Suggests destinations and places to visit.<br>
-💰 **Budget Advisor** – Plans expenses according to the user's budget.<br>
-🗓️ **Itinerary Planner** – Creates a personalized day-wise travel plan.<br>
+## Run
+Run `python main.py` to start planning a trip.
 
-### 🔄 Workflow
-
-```text
-User → Destination Expert → Budget Advisor → Itinerary Planner → Final Vacation Plan
-```
-
-### 🛠️ Tech Stack
-
-**Python | AutoGen | LLMs | AsyncIO | Generative AI**
-
-🚀 Built while exploring **Generative AI, LLMs & Multi-Agent Systems**.
-
+## Structure
+- `config/`: Settings and API keys.
+- `agents/`: Agent definitions.
+- `teams/`: Team workflows.
+- `utils/`: Helper functions.
+- `tests/`: Unit tests.
+- `main.py`: Application entry point.
