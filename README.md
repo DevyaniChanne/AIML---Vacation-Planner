@@ -1,6 +1,6 @@
 # AutoGen Travel Planner
 
-A multi-agent system for planning trips using AutoGen v0.4.
+A multi-agent system for planning trips using AutoGen
 
 ## Setup
 1. Clone the repo.
