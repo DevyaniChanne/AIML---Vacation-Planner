@@ -7,9 +7,9 @@ An AI-powered **multi-agent vacation planner** built using **Python, AutoGen, an
 
 ### 🤖 Agents
 
-🌍 **Destination Expert** – Suggests destinations and places to visit.
-💰 **Budget Advisor** – Plans expenses according to the user's budget.
-🗓️ **Itinerary Planner** – Creates a personalized day-wise travel plan.
+🌍 **Destination Expert** – Suggests destinations and places to visit.<br>
+💰 **Budget Advisor** – Plans expenses according to the user's budget.<br>
+🗓️ **Itinerary Planner** – Creates a personalized day-wise travel plan.<br>
 
 ### 🔄 Workflow
 
