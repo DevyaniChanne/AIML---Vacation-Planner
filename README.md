@@ -18,5 +18,5 @@ User → Destination Expert → Budget Advisor → Itinerary Planner → Final V
 
 **Python | AutoGen | LLMs | AsyncIO | Generative AI**
 
-> 🚀 Built while exploring **Generative AI, LLMs & Multi-Agent Systems**.
+🚀 Built while exploring **Generative AI, LLMs & Multi-Agent Systems**.
 
